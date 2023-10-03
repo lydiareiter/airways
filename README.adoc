@@ -1,0 +1,7 @@
+= Airways
+
+== Übung 1
+
+- Erstellen einer Entität `Airplain`
+- Erstellen von CRUD - Funktionalität per REST-Endpoint
+- Erstellen der Persitierung der Tabelle in eine postgre-db
